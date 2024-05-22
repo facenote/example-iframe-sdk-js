@@ -11,7 +11,7 @@
 This repository is an example of the usage of the SDK with iframe and callback function.
 
 ## Documentation
-For detailed documentation and examples, please visit the FaceNote SDK Documentation.
+For detailed documentation and examples, please visit the [FaceNote SDK Documentation](https://docs.facenote.me)
 
 ## Support
 If you encounter any issues or have any questions, feel free to contact our support team at support@facenote.me.
